@@ -1,6 +1,6 @@
 # tarea4
 
-Nombre: Edder Parra N.
+Nombre: Edder Parra N. y Juan Castañeda
 
 	Instalacion del ambiente para le ejecucion del aplicativo:
 
